@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/build/web/WEB-INF/lib/gson-1.7.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/build/web/WEB-INF/lib/java-json.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/build/web/WEB-INF/lib/mysql-connector-java-5.1.6-bin.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/build/web/WEB-INF/lib/sdp.app.api-1.0.183-SNAPSHOT.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/gson-1.7.2.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/java-json.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/javaee-endorsed-api-6.0/javaee-doc-api.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/javaee-endorsed-api-6.0/javax.annotation.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/javaee-endorsed-api-6.0/jaxb-api-osgi.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/javaee-endorsed-api-6.0/webservices-api-osgi.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/mysql-connector-java-5.1.6-bin.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/lib/sdp.app.api-1.0.183-SNAPSHOT.jar!/" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src/java" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/build/web/WEB-INF/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src/java" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="gson-1.7.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/build/web/WEB-INF/lib/gson-1.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="java-json.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/build/web/WEB-INF/lib/java-json.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="mysql-connector-java-5.1.6-bin.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/build/web/WEB-INF/lib/mysql-connector-java-5.1.6-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="sdp.app.api-1.0.183-SNAPSHOT.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/build/web/WEB-INF/lib/sdp.app.api-1.0.183-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org-netbeans-modules-java-j2seproject-copylibstask.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/CopyLibs/org-netbeans-modules-java-j2seproject-copylibstask.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lib/gson-1.7.2.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/gson-1.7.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lib/java-json.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/java-json.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javaee-doc-api.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/javaee-endorsed-api-6.0/javaee-doc-api.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="javax.annotation.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/javaee-endorsed-api-6.0/javax.annotation.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="jaxb-api-osgi.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/javaee-endorsed-api-6.0/jaxb-api-osgi.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="webservices-api-osgi.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/javaee-endorsed-api-6.0/webservices-api-osgi.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lib/mysql-connector-java-5.1.6-bin.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/mysql-connector-java-5.1.6-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="lib/sdp.app.api-1.0.183-SNAPSHOT.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/lib/sdp.app.api-1.0.183-SNAPSHOT.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="inheritedJdk" />
+  </component>
+</module>
