@@ -17,8 +17,7 @@ public class DBControler {
             con = util.GetConnection();
             String query = "INSERT INTO movie_logs ( title,year,imdb_id,genres,directors,writers,actors,hash ) VALUES (?,?,?,?,?,?,?,?);";
             PreparedStatement preSt = con.prepareStatement(query);
-            preSt.setString(1, title);
-            preSt.setInt(2, year);
+            preSt.setInt(3, year);
             preSt.setString(3, imdb);
             preSt.setString(4, genres);
             preSt.setString(5, director);
@@ -45,6 +44,7 @@ public class DBControler {
             String query = "INSERT INTO best_movies (id, title,year,imdb_id,genres,directors,writers,producers,actors ) VALUES (?,?,?,?,?,?,?,?,?);";
             PreparedStatement preSt = con.prepareStatement(query);
             preSt.setInt(1, id);
+//added line
             preSt.setString(2, title);
             preSt.setInt(3, year);
             preSt.setString(4, imdb);
