@@ -44,8 +44,7 @@ public class DBControler {
             String query = "INSERT INTO best_movies (id, title,year,imdb_id,genres,directors,writers,producers,actors ) VALUES (?,?,?,?,?,?,?,?,?);";
             PreparedStatement preSt = con.prepareStatement(query);
             preSt.setInt(1, id);
-//added line
-            //preSt.setString(2, title);
+            preSt.setString(2, title);
             preSt.setInt(3, year);
             preSt.setString(4, imdb);
             preSt.setString(5, genres);
