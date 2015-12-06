@@ -26,6 +26,9 @@ public class DBControler {
             preSt.setString(7, actor);
             preSt.setString(8, hash);
 			//preSt.setString(8, hash);
+			//preSt.setString(8, hash);
+			//preSt.setString(8, hash);
+			//preSt.setString(8, hash);
             
             preSt.execute();
             
@@ -54,6 +57,7 @@ public class DBControler {
             preSt.setString(7, writer);
             preSt.setString(8, producer);
             preSt.setString(9, actor);
+			//preSt.setString(9, actor);
             
             preSt.execute();
             
